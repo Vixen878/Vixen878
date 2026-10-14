@@ -1,39 +1,71 @@
 <h1 align="center">Hey, I'm Leul 👋</h1>
+
 <p align="center">
-  I build practical AI + web tools with a focus on simple UX, clear docs, and fast shipping.
+  I build products across AI, developer tools, creative tech, payments, and the web.
+  <br />
+  Mostly shipping, experimenting, and turning ideas into real products.
 </p>
 
 ---
 
-### What I’m into
-- AI agents and automation that save time
-- Developer & creator tools
-- Clean, reliable web apps
+### Currently building
 
-### Selected work (public & private)
-- **Verifier API** — public repo for receipt/record validation and related utilities • <a href="https://github.com/Vixen878/verifier-api">repo</a>
-- **tiny.et** — short links + simple bio pages • *private*
-- **verify.leul.et** — hosted verification front-end • *private*
-- **yay.et** — small game-night toys for the web • *private*
-- **only.fans.et** — playful experiments • *private*
-- **Snapleap.me** — AI image/video playground • *coming soon*
-- **Snapgen** — Telegram bot for AI-assisted web generation • *private*
-- **Creoagents** — custom AI voice agents for support/booking/sales • *private*
+- **Riff** — AI motion transfer platform for giving characters, people, and images new motion • *in development*
+- **Vamori** — event discovery, ticketing, community, and professional credits for the people behind events • *in development*
+- **Veritas** — open-source payment verification infrastructure built for Ethiopian payment providers • <a href="https://github.com/Vixen878/verifier-api">GitHub</a>
+- **Creofam** — AI automation, voice agents, software, and creative technology for businesses • <a href="https://creofam.ae">creofam.ae</a>
+- **Snapleap** — making AI image and video tools accessible with local payments • *in development*
 
-> I keep most repos private until they feel boringly stable. If something here interests you, reach out.
+### Other things I've built
 
-### Stack highlights
-TypeScript & JavaScript · Next.js (App Router) · tRPC · Prisma · **Drizzle ORM** · **Supabase** · MySQL · Tailwind · Docker · Cloudflare · Hetzner/Coolify · **grammY** (Telegram bots) · **Flutter** · **NextAuth** · **Better Auth**
+- **tiny.et** — short links + simple bio pages • *private repo*
+- **yay.et** — small multiplayer and game-night experiments for the web • *private repo*
+- **only.fans.et** — playful internet experiments • *private repo*
+- **Snapgen** — Telegram-based AI generation experiments • *private repo*
+- **Creoagents** — AI voice agents for support, booking, lead qualification, and sales • *private repo*
 
-### How I work
-- Ship small, frequent updates  
-- Prefer boring tech that scales  
-- Documentation, examples, and quickstarts first
+> A lot of my code lives in private repositories while the products themselves are actively being built, tested, or used.
 
-### Contact
-- Email: **me@leulzenebe.pro**  
-- Telegram: **@leulzenebe1**  
-- Site: **leulzenebe.pro**
+### Open source
+
+My main open-source work right now is **Veritas**, originally launched as Verifier API.
+
+It's an open payment-verification layer that helps developers verify transactions from Ethiopian payment providers without rebuilding provider-specific verification logic from scratch.
+
+<a href="https://github.com/Vixen878/verifier-api">github.com/Vixen878/verifier-api</a>
+
+### Stack
+
+**TypeScript · JavaScript · Next.js · React · tRPC · Prisma · Drizzle · MySQL · PostgreSQL · Tailwind CSS**
+
+**Better Auth · Supabase · Polar · Mux · S3 · Cloudflare · Docker · Coolify · Hetzner**
+
+Also occasionally: **Flutter · grammY · Python · AI APIs · queues/workers · whatever gets the product shipped**
+
+### What I'm interested in
+
+- AI products that are actually useful
+- Developer infrastructure & APIs
+- Creative AI tools
+- Payments & fintech infrastructure
+- Automation and AI agents
+- Multiplayer/web experiments
+- Simple products with unusually good UX
+
+### How I build
+
+- Prototype fast, then clean it up
+- Keep the product simpler than the technology behind it
+- Build the smallest useful version first
+- Prefer owning the infrastructure when it makes sense
+- Open-source things that can become useful building blocks for others
+
+### Find me
+
+- **Web:** <a href="https://leulzenebe.pro">leulzenebe.pro</a>
+- **Email:** <a href="mailto:me@leulzenebe.pro">me@leulzenebe.pro</a>
+- **Telegram:** <a href="https://t.me/leulzenebe1">@leulzenebe1</a>
+- **GitHub:** <a href="https://github.com/Vixen878">@Vixen878</a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vixen878&show_icons=true&hide_title=true" height="150" />
