@@ -11,6 +11,7 @@
 ### Currently building
 
 - **Riff** — AI motion transfer platform for giving characters, people, and images new motion • *in development*
+- **Akarii** — AI direction for the work between finished video and publish: titles, metadata, thumbnail concepts, generation, and refinement in one workflow • <a href="https://akarii.app">akarii.app</a>
 - **Vamori** — event discovery, ticketing, community, and professional credits for the people behind events • *in development*
 - **Veritas** — open-source payment verification infrastructure built for Ethiopian payment providers • <a href="https://github.com/Vixen878/verifier-api">GitHub</a>
 - **Creofam** — AI automation, voice agents, software, and creative technology for businesses • <a href="https://creofam.ae">creofam.ae</a>
